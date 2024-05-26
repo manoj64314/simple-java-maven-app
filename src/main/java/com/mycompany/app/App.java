@@ -12,6 +12,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println(MESSAGE);
         System.out.println(Hiillo);
+        System.out.println(Hiillo_newbranch);
     }
 
     public String getMessage() {
